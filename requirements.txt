@@ -1,7 +1,4 @@
 streamlit
 google-generativeai
-pandas
 transformers
-seaborn
-torch
 python-dotenv
